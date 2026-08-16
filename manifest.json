@@ -2,7 +2,7 @@
     "name": "PRISMA Services",
     "short_name": "PRISMA",
     "description": "Plataforma futurista de serviços",
-    "start_url": "index.html",
+    "start_url": "login.html",
     "display": "standalone",
     "background_color": "#070711",
     "theme_color": "#8b5cf6",
