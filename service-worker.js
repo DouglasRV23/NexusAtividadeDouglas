@@ -3,8 +3,8 @@ const CACHE_NAME = "prisma-v1";
 const FILES = [
 
     "./",
-    "./index.html",
     "./login.html",
+    "./index.html",
     "./servicos.html",
     "./detalhes.html",
     "./perfil.html",
